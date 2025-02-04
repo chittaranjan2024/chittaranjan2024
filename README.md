@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Chittaranjan Ghosh</h1>
-<h3 align="center">A Java Full Stack Trainer</h3>
+<h3 align="center">📌 Java Full Stack Trainer | 9+ Years Experience | Mentor & Developer</h3>
+<p>Passionate Java Full Stack Trainer with 9+ years of experience, specializing in Java, Spring Boot, Hibernate, Microservices, Angular, React, and DevOps. Adept at mentoring developers, designing scalable applications, and delivering hands-on training sessions for professionals and students.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittaranjan2024&label=Profile%20views&color=0e75b6&style=flat" alt="chittaranjan2024" /> </p>
 
