@@ -3,6 +3,13 @@
 <h3 align="center">📌 Java Full Stack Trainer | 9+ Years Experience | Mentor & Developer</h3>
 <p>Passionate Java Full Stack Trainer with 9+ years of experience, specializing in Java, Spring Boot, Hibernate, Microservices, Angular, React, and DevOps. Adept at mentoring developers, designing scalable applications, and delivering hands-on training sessions for professionals and students.</p>
 
+🔹 Expertise: Java, Spring Boot, Hibernate, Microservices, REST APIs, Angular, React, JavaScript, TypeScript, SQL, NoSQL, Docker, Kubernetes, CI/CD
+🔹 Training Focus: Practical, project-based learning with real-world scenarios
+🔹 Passion: Helping developers bridge the gap between theory and industry best practices
+
+💡 GitHub is where I share code samples, projects, and training resources. Let's connect and code!
+
+🚀 Always learning, always teaching!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittaranjan2024&label=Profile%20views&color=0e75b6&style=flat" alt="chittaranjan2024" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chittaranjan2024" alt="chittaranjan2024" /></a> </p>
