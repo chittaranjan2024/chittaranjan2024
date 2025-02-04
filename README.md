@@ -6,7 +6,8 @@
 🔹 Expertise: Java, Spring Boot, Hibernate, Microservices, REST APIs, Angular, React, JavaScript, TypeScript, SQL, NoSQL, Docker, Kubernetes, CI/CD <br>
 🔹 Training Focus: Practical, project-based learning with real-world scenarios<br>
 🔹 Passion: Helping developers bridge the gap between theory and industry best practices<br>
-
+💡 I also write technical blogs on Java and Full Stack development. Check them out here:<br>
+📖 Blog: https://www.guvi.in/blog/author/chittaranjan-ghosh/<br>
 💡 GitHub is where I share code samples, projects, and training resources. Let's connect and code!<br>
 
 🚀 Always learning, always teaching!
